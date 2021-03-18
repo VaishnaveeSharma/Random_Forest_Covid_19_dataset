@@ -1,7 +1,7 @@
 LABEL,MESSAGE
 MYTH,5G mobile networks spread COVID-19.
-FACTS,COVID-19 is spreading in many countries that do not have 5G mobile networks.
-FACTS,Viruses cannot travel on radio waves/mobile networks. 
+,COVID-19 is spreading in many countries that do not have 5G mobile networks.
+FACTS, 
 MYTH,"You can self-treat for COVID-19 by taking chloroquine phosphate, an additive used to clean fish tanks."
 MYTH,Chloroquine and hydroxychloroquine prevent coronavirus.
 FACTS,"Although chloroquine and hydroxychloroquine have been mentioned as possible treatments for COVID-19, fish tank cleaning products that contain chloroquine phosphate are not intended for human use."
@@ -50,8 +50,8 @@ MYTH,Getting the flu shot will prevent you getting the coronavirus.
 MYTH,Vaccines against pneumonia can protect you against the new coronavirus
 MYTH,"I can take antibiotics, such as amoxicillin, to treat COVID-19."
 MYTH,Antibiotics are effective in preventing and treating the new coronavirus
-MYTH,Ibuprofen makes COVID-19 worse.
-MYTH,Using steroids will prevent you from contracting the coronavirus. 
+,Ibuprofen makes COVID-19 worse.
+MYTH, 
 MYTH,I can get COVID-19 from my mail or other packages that I receive.
 MYTH,Only Chinese people have the coronavirus
 MYTH,"You should avoid or be afraid of all Chinese people. Actually, why bother distinguishing, just avoid all people of East Asian descent in general."
